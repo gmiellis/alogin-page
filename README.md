@@ -1,4 +1,4 @@
-#Example login page using React & Semantic-ui
+# Example login page using React & Semantic-ui
 
 This is a Mock Login Page made with react and semantic ui - done as technical test.
 
